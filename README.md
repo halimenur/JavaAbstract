@@ -1,0 +1,2 @@
+# JavaAbstract
+Abstract Class
